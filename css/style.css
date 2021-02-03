@@ -450,11 +450,7 @@ text-decoration: none;
     margin-bottom: 0px;
 }
 
-.projects-list-img {
-    padding-bottom: 20px;
-}
-
-.projects-list-title {
+.projects-list-item p {
     padding-bottom: 4px;
 }
 
